@@ -4,7 +4,7 @@ Open links in two seperate tabs in your browser or Open link in another computer
 
 Cool, isn't ?
 
-Checkout the Whiteboard Working Live URL:https://easywhite-board.herokuapp.com/</p>
+Checkout the Whiteboard Working Live URL: https://easywhite-board.herokuapp.com/</p>
 <div>
 <img src="public\first.png" width="50%">
  
